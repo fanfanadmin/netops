@@ -9,7 +9,7 @@ import (
 
 
 func main() {
-        //test
+        //testcomm
 	user := "fanchao"
 	password := "1qaz9ol."
 	ipPort := "192.168.0.134:22"
