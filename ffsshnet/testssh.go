@@ -33,3 +33,4 @@ func main() {
 	fmt.Println("RunCommands result:\n", result)
 	fmt.Printf("type=%v",reflect.TypeOf(result))
 }
+}

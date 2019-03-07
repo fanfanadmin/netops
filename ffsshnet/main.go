@@ -9,7 +9,7 @@ import (
 )
 
 func filterResult(result, firstCmd ,ip string) string {
-	//对结果进行处理，截取出指令后的部分.
+	//对结果进行处理，截取出指令后的部分
 
 	filteredResult := "---------------------------"+ip+"-----------------------------\n"+""
 	resultArray := strings.Split(result, "\n")
