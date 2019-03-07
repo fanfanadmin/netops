@@ -34,3 +34,6 @@ func main() {
 	fmt.Printf("type=%v",reflect.TypeOf(result))
 }
 }
+
+//fenzhi
+
