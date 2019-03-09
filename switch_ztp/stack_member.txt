@@ -1,0 +1,5 @@
+ESN                    Stack group   Stack member
+2102350EWL6TH8000xxx   10            1
+2102350EWL6TH8000xxx   10            2
+2102350EWL6TH8000xxx   30            1
+2102350EWL6TH8000xxx   30            2
